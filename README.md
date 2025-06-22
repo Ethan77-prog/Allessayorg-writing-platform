@@ -1,6 +1,6 @@
 # Allessay.org – Academic Writing Tools
 
-![AllEssay Logo](https://allessay.org/logo.png)
+[AllEssay Logo](https://allessay.org/logo.png)
 
 Welcome to the official repository of Allessay.org, a writing platform that helps students improve their academic writing skills, structure essays, and prepare for college and university applications.
 
