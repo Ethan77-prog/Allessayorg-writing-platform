@@ -1,6 +1,7 @@
 # Allessay.org – Your Essay, Your Edge.
 
 Welcome to the official repository of Allessay.org, a writing platform that helps students improve their academic writing skills, structure essays, and prepare for college and university applications.
+
 [![Visit Website](https://img.shields.io/badge/Visit-AllEssay.org-blue?logo=google-chrome)](https://allessay.org)
 
 ## 🔍 About Allessay.org
